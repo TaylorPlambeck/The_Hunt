@@ -15,4 +15,4 @@ Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2018-01-24T06:36:39.37
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2018-01-24T06:36:53.813Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2018-01-24T06:36:53.817Z
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_10/Win64/openvr_api.dll	2018-01-24T06:36:40.399Z
-Asset_Test.exe	2018-09-10T17:51:23.964Z
+Asset_Test.exe	2018-09-12T03:57:36.872Z
